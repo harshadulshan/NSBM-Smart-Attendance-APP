@@ -1,0 +1,28 @@
+# Personal Data
+dataset/
+database/
+snapshots/
+unknown_faces/
+reports/
+attendance/
+
+# Model Files
+face_model.yml
+label_map.json
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Icons
+*.ico
