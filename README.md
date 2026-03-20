@@ -212,16 +212,56 @@ The application is packaged as a **Windows .exe** file — no Python installatio
 
 ---
 
-## 🖥️ App Screens
+## 🖥️ App Screenshots
 
-| Screen | Description |
-|---|---|
-| 🔒 **Login** | Glassmorphism card with particle animation, role-based auth |
-| 🏠 **Home** | Animated stat counters, quick actions, recent attendance |
-| 📸 **Register** | Face capture with live camera preview and progress bar |
-| 🎯 **Attendance** | Real-time webcam recognition with confidence display |
-| 📊 **Reports** | Tabbed analytics with filters and Excel export |
-| ⚙️ **Settings** | User management, timetable setup, database backup |
+### 🔒 Login Screen
+> Glassmorphism design with particle animation
+
+![Login](login.png)
+
+---
+
+### 🏠 Home Dashboard
+> Animated stat counters and quick actions
+
+![Home](home.png)
+
+---
+
+### 📸 Student Registration
+> Face capture with live camera preview
+
+![Register](register.png)
+
+---
+
+### 🎯 Mark Attendance
+> Real-time face recognition with confidence display
+
+![Attendance](attendance.png)
+
+---
+
+### 📊 Reports & Analytics
+> Tabbed reports with filters and Excel export
+
+![Reports](reports.png)
+
+---
+
+### ⚙️ Settings Panel
+> User management and timetable setup
+
+![Settings](settings.png)
+```
+
+---
+
+## STEP 4 — Commit Changes
+
+Commit message:
+```
+📸 Add app screenshots to README
 
 ---
 
